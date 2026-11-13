@@ -6,9 +6,9 @@ SailNode 官方安装包下载仓库 / Official SailNode downloads.
 
 | Platform | Version | Download |
 | --- | --- | --- |
-| Windows 10/11 x64 | 0.11.41 | [Windows installer ZIP](https://github.com/Waylightlabs/SailNode-downloads/releases/download/0.11.41/SailNode-0.11.41-windows-amd64-installer.zip) |
-| macOS 13+, Intel / Apple Silicon | 0.11.33 | [macOS DMG](https://github.com/Waylightlabs/SailNode-downloads/releases/download/0.11.33/SailNode-0.11.33-macOS-universal.dmg) |
-| Linux Web | 0.11.33 | [Installer](https://github.com/Waylightlabs/SailNode-downloads/releases/download/0.11.33/SailNode-Web-0.11.33-linux.run) · [ZIP](https://github.com/Waylightlabs/SailNode-downloads/releases/download/0.11.33/SailNode-Web-0.11.33-linux.zip) |
+| Windows 10/11 x64 | 0.11.47 | [Windows installer ZIP](https://github.com/Waylightlabs/SailNode-downloads/releases/download/0.11.47/SailNode-0.11.47-windows-amd64-installer.zip) |
+| macOS 13+, Intel / Apple Silicon | 0.11.47 | [macOS DMG](https://github.com/Waylightlabs/SailNode-downloads/releases/download/0.11.47/SailNode-0.11.47-macOS-universal.dmg) |
+| Linux Web | 0.11.47 | [Installer](https://github.com/Waylightlabs/SailNode-downloads/releases/download/0.11.47/SailNode-Web-0.11.47-linux.run) · [ZIP](https://github.com/Waylightlabs/SailNode-downloads/releases/download/0.11.47/SailNode-Web-0.11.47-linux.zip) |
 
 Windows ZIP 安装包解压后运行其中的安装程序；应用内自动更新由 SailNode 自动解压处理，无需手动操作。
 
